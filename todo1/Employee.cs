@@ -8,6 +8,5 @@
         public string Address { get; set; }
         public string HomePhone { set; get; }
         public string CellPhone { set; get; }
-        public string EmloyeePhone { get; set; }
     }
 }
